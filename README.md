@@ -23,6 +23,6 @@ Conditions de validation du projet :
 
 Dans ce repertoire vous trouverez trois fichiers de codes :
 
-1 - Analyses graphiques : phase d'exploration et de nettoyage des données
-2 - Modélisation par regression : modèles de machine learning utilisant des techniques de régressions (GradiantBoosting, Random Forest, etc.) 
-3 - Modélisation par classification : modèles de machine learning utilisant des technique de classifications (dichitomie de la variable cible, modele Random Forest Classifier)
+- Analyses graphiques : phase d'exploration et de nettoyage des données
+- Modélisation par regression : modèles de machine learning utilisant des techniques de régressions (GradiantBoosting, Random Forest, etc.)
+- Modélisation par classification : modèles de machine learning utilisant des technique de classifications (dichitomie de la variable cible, modele Random Forest Classifier)
